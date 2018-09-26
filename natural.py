@@ -1,4 +1,3 @@
-print("Enter '0' for exit");
 num = int(input("sum of natural number:"));
 if num==0:
     exit();
