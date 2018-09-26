@@ -11,6 +11,6 @@ else:
     elif((year%100==0) and (year%400==0)):
     	print(year,"is a Leap Year.");
     elif(year%400==0):
-    	print(year,"is a Leap Year");
+    	print(year,"yes");
     else:
-    	print(year,"is not a Leap Year");
+    	print(year,"no");
