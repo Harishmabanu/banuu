@@ -1,4 +1,4 @@
-num = int(input("sum of natural number:"));
+num = int(input(""));
 if num==0:
     exit();
 elif num<1:
